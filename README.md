@@ -4,4 +4,4 @@ Using materials and methods of the article "Ab initio protein structure predicti
 
 To generate structures consistent with both the local and nonlocal interactions responsible for protein stability via implementations of 3, 5 and 9 residue fragments of known structures into local sequences similar to the target sequence using a Monte Carlo simulated annealing procedure with further refinement of the obtained complete tertiary structure according to the article.
 
-<img src="https://github.com/eva-smorodina/Ab-Initio-Protein-Structure-Prediction/files/images/1bl0_ref4.png" width="400" align="middle">
+<img src="https://github.com/eva-smorodina/Ab-Initio-Protein-Structure-Prediction/images/1bl0_ref4.png" width="400" align="middle">
