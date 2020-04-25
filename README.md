@@ -1,4 +1,4 @@
-# Ab-Initio-Protein-Structure-Prediction
+# Ab Initio Protein Structure Prediction
 
 Using materials and methods of the article *"Ab initio protein structure prediction of CASP III targets using ROSETTA"* written by Kim T. Simons, Rich Bonneau, Ingo Ruczinski and David Baker, we conducted ab initio folding to generate structures consistent with both the local and nonlocal interactions responsible for protein stability.
 
